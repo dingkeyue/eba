@@ -1,3 +1,4 @@
+Please send an email to ding.keyue@gmail.com to request the summary statistics.
 
 The folder contains output from rare-variants based association testing in case_control and trio cohort. qualifying variants were rare functional variants (rv) or HC LoF variants (LoF). 
 
